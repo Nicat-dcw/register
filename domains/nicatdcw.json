@@ -1,0 +1,11 @@
+{
+  "description": "NicatDcw Website",
+  "repo": "https://github.com/Nicat-dcw",
+  "owner": {
+    "username": "nicatdcw",
+    "email": "kurtbot60@gmail.com"
+  },
+  "record": {
+    "CNAME": "glitch.edgeapp.net"
+  }
+}
